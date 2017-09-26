@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/chap5/chap5.iml" filepath="$PROJECT_DIR$/chap5/chap5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/try-pring4-project.iml" filepath="$PROJECT_DIR$/try-pring4-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chap5/try-spring4-mvc/try-spring4-mvc.iml" filepath="$PROJECT_DIR$/chap5/try-spring4-mvc/try-spring4-mvc.iml" />
+    </modules>
+  </component>
+</project>
